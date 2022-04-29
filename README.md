@@ -53,5 +53,5 @@
 ---
 
 # :writing_hand: Блоги :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Пишу блоги на сайте Blogger.com.
+- 
