@@ -54,4 +54,4 @@
 
 # :writing_hand: Блоги :
 Пишу блоги на сайте Blogger.com.
-- 
+- https://pearprogrammer.blogspot.com/
