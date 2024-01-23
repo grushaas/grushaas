@@ -27,7 +27,7 @@
 - :telescope: Я любитель, который хочет свое хобби превратить на настоящую работу. 
 - :seedling: Учусь языку C++ на Netology.ru.
 - :zap: В свободное время я обучаюсь и читаю всякие своего рода IT статьи.
-- :mailbox: Связаться со мной можно по этим ссылкам: [![Telegram](https://shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Grushib) [![Outlook](https://shields.io/badge/grusha__as@outlook.com-blue?logo=Microsoft&logoColor=9cf&style=flat-square)](#)
+- :mailbox: Связаться со мной можно по этим ссылкам: [![Telegram](https://shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Grushib)
 
 ---
 
